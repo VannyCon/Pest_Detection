@@ -1,0 +1,19 @@
+0 Wasp
+1 Weevil
+2 Snail
+3 Moth
+4 Slug
+5 Earwig
+6 Grasshopper
+7 Caterpillar
+8 Earthworm
+9 Bettle
+10 Ants
+11 Bees
+12 Borers
+13 Cane Grubs
+14 Corn Earworm
+15 Corn Leaf Aphid
+16 Cutworms
+17 Early Shoot Borer
+18 Fall Armyworm
